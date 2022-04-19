@@ -28,6 +28,11 @@ Go to the root folder and run the following:
 
     $ git clone https://github.com/Paul-js-hub/hello-world
     $ cd hello-world
+    $ npm install
+
+# Running the project
+
+   $ Open the index.html in your browser
 
 ## Author
 
